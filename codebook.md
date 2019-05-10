@@ -12,7 +12,7 @@ extracting_indices
 read.table()  
 rbind()  
 cbind()  
-grep() 
+grep()  
 names()  
 left_join()  
 gsub()    
