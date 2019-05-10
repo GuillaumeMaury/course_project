@@ -50,4 +50,4 @@ HAR_AVERAGES <- DATA_SUBSET  %>%
   gather("variable","value",3:88) %>% 
   group_by(subject,activity,variable) %>% 
   summarise("average"=mean(value)) %>%
-  View
+  write.table(file="HAR_AVERAGES.txt",sep=" ")
