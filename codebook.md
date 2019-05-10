@@ -1,5 +1,14 @@
-Here are the different names I use
+**dataframes**
+TRAIN
+TEST
+DATA
+DATA_SUBSET
+HAR_AVERAGES
 
-HAR
-É
-	
+**vectors**
+extracting_indices
+
+**functions**
+grep()
+gsub()
+gather()
