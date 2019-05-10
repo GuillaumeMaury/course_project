@@ -1,9 +1,4 @@
-# course_project
-## Getting and cleaning data course project - from original HAR data set in a zip to a tidy data set on Github - documented
-
-I have written this script in order to follow strictly the instructions given for the course project. So, it has 5 steps. 
-
-I used a Mac OS X Sierra, with R version 3.6.0 released on 2019/04/26, in which the dplyr and tidyr packages are already wrapped.
+## Getting and cleaning data course project - from original HAR data set in a zip to a tidy data set
 
 After reading the README.txt file in the HAR Samsung dataset very carefully : it appears that **it is not necessary to work with the files in the "Inertial Signals" subdirectories**
 
