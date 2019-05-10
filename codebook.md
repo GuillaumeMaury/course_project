@@ -9,6 +9,10 @@ HAR_AVERAGES
 extracting_indices
 
 **functions**  
-read.table()  rbind()  cbind()  grep()  
-gsub()  
+read.table()  
+rbind()  
+cbind()  
+grep()  
+left_join()  
+gsub()    
 gather()  
