@@ -1,9 +1,9 @@
 **dataframes**
-TRAIN 
-TEST 
-DATA 
-DATA_SUBSET 
-HAR_AVERAGES
+TRAIN  
+TEST   
+DATA   
+DATA_SUBSET   
+HAR_AVERAGES  
 
 **vectors**
 extracting_indices
