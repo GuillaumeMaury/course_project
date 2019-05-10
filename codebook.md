@@ -1,8 +1,8 @@
 **dataframes**
-TRAIN
-TEST
-DATA
-DATA_SUBSET
+TRAIN 
+TEST 
+DATA 
+DATA_SUBSET 
 HAR_AVERAGES
 
 **vectors**
