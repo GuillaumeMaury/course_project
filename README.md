@@ -8,9 +8,9 @@ Author : Guillaume Maury Date : May 10th 2019
 * run_analysis.R file : the R script
 
 ## Note  
-The dataset files of the project (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) first have to be loaded in your working environment BEFORE running the script.
+The dataset files of the project (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) first have to be loaded in your working environment BEFORE running the R script.
 
-## Description of the script in 5 steps
+## Description of the R script in 5 steps
 #### 1. MERGE 
  First cbind() the "train" files together with subject and activity columns on the left in a big "TRAIN" file, respectively the "test" files in a big "TEST" file, then rbind() the "TRAIN" and "TEST" dataframes together in a "DATA" dataframe
 
